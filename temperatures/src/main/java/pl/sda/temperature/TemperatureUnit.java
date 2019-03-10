@@ -1,4 +1,6 @@
 package pl.sda.temperature;
 
-public class TemperatureUnit {
+import java.math.BigDecimal;
+
+public interface TemperatureUnit {
 }
